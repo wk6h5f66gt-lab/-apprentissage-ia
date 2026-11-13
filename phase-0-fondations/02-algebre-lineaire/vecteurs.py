@@ -12,5 +12,5 @@ x=[120,4,15]
 w=[3,10,-0.5]
 prix=produit_scalaire(x,w)+20
 print(f"le prix de la maison est {prix}")
-print(produit_scalaire([1, -2, 3], [4, 0, 2]))   # attendu : 10
-print(norme([3, 4]))                              # attendu : 5.0
+print(produit_scalaire([1, -2, 3], [4, 0, 2]))  
+print(norme([3, 4]))                              
